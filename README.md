@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Hamidreza Ahmadi
 I'm A Fullstack developer From Iran
-
-Here are some ideas to get you started:
 - 🔭 I’m currently working on Eshid
 - 🌱 I’m currently learning Socket Development
 - ✨ I’m a ( C# / PHP / Python / CSS / HTML / JS / SQL / Chrome Extension ) Developer
